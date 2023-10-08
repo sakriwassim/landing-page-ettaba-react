@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landing-page-ettaba-react/static/css/main.ed1f36e2.css",
-    "main.js": "/landing-page-ettaba-react/static/js/main.f0928e17.js",
+    "main.css": "/landing-page-ettaba-react/static/css/main.2b5d0d7f.css",
+    "main.js": "/landing-page-ettaba-react/static/js/main.211daa4a.js",
     "static/media/image1.jpg": "/landing-page-ettaba-react/static/media/image1.35570eb23c326d1755da.jpg",
     "static/media/logo.svg": "/landing-page-ettaba-react/static/media/logo.0df8b6a1d2954ba4e0fc40caab1fd141.svg",
     "static/media/youtube.svg": "/landing-page-ettaba-react/static/media/youtube.f75ddbafecacd74195e398a62425a950.svg",
@@ -9,11 +9,11 @@
     "index.html": "/landing-page-ettaba-react/index.html",
     "static/media/linkedin.svg": "/landing-page-ettaba-react/static/media/linkedin.92c1b6d7c7843478963d8ca94881392f.svg",
     "static/media/menu.svg": "/landing-page-ettaba-react/static/media/menu.74db66763c780cdd5b35521056800dfd.svg",
-    "main.ed1f36e2.css.map": "/landing-page-ettaba-react/static/css/main.ed1f36e2.css.map",
-    "main.f0928e17.js.map": "/landing-page-ettaba-react/static/js/main.f0928e17.js.map"
+    "main.2b5d0d7f.css.map": "/landing-page-ettaba-react/static/css/main.2b5d0d7f.css.map",
+    "main.211daa4a.js.map": "/landing-page-ettaba-react/static/js/main.211daa4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed1f36e2.css",
-    "static/js/main.f0928e17.js"
+    "static/css/main.2b5d0d7f.css",
+    "static/js/main.211daa4a.js"
   ]
 }
