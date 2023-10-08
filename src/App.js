@@ -61,17 +61,14 @@ function App() {
     
     
     <div className=' lg:w-1/2 md:w-1/2 flex flex-col justify-center space-y-5 py-8 text-center md:text-left text-slate-900 bg-slate-200 '>
-      <h1 className='font-bold text-3xl md:text-5xl'>Bienvenue a tous</h1>
-      <p>Aliquip Lorem exercitation est pariatur. Sunt nulla officia excepteur minim consectetur eiusmod eu anim. Mollit adipisicing pariatur ut exercitation nisi ad dolore irure aliquip culpa. Non fugiat ad eu ea est anim nisi elit nisi nisi consectetur eu do ullamco.</p>
-      <a href='#' className='py-2 px-6 rounded-full self-center md:self-start text-white bg-orange-500 hover-bg-slate-900'> Call Me</a>
+      <h1 className='font-bold ml-5 text-3xl md:text-5xl'>Bienvenue a tous</h1>
+      <p className='ml-5'>Aliquip Lorem exercitation est pariatur. Sunt nulla officia excepteur minim consectetur eiusmod eu anim. Mollit adipisicing pariatur ut exercitation nisi ad dolore irure aliquip culpa. Non fugiat ad eu ea est anim nisi elit nisi nisi consectetur eu do ullamco.</p>
+      <a href='#' className='py-2 ml-5 px-6 rounded-full self-center md:self-start text-white bg-orange-500 hover-bg-slate-900'> Call Me</a>
     </div>
 
-    
-
-    <div className='bg-red-500 md:w-1/2 lg:w-1/2'>
+    <div className=' md:w-1/2 lg:w-1/2'>
       <img  src={imagehome} alt='ettaba logo' className='' ></img>
     </div>
-
 
   </div>
 </section>
@@ -112,7 +109,7 @@ function App() {
           <div className=' py-5 flex flex-col  items-center justify-between space-y-2 md:space-y-2 md:items-start'>
 
 
-            <div className='flex flex-row space-x-3 items-center mx-0 my-2 bg-red-700'>
+            <div className='flex flex-row space-x-3 items-center mx-0 my-2'>
               <img src={logo} alt='ettaba logo' className='h-8' ></img>
               <h1 className='font-bold'>Ettaba</h1>
             </div>
